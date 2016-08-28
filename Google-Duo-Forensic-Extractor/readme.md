@@ -1,4 +1,4 @@
-# H1 Google Duo DB Parser
+# Google Duo DB Parser
 
 Operating System: Android (Tested), iOS (Untested)
 Release/Version: 15 August 2016
