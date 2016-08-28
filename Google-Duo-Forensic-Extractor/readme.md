@@ -34,4 +34,4 @@ Data in Google Duo is stored in 3 databases:
 
 <br><br>
 
-Tested in Windows enviroments, requires all three files to work.
+Tested in Windows enviroments, requires all three files to work. This should be an OK interim solution until the tools start to support the application.
