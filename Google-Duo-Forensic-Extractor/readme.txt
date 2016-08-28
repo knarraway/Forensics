@@ -1,3 +1,9 @@
+# Google Duo DB Parser
+
+Operating System: Android (Tested), iOS (Untested)
+Release/Version: 15 August 2016
+Application: Google Duo
+
 Python file to extract information from Google Duo databases and print the data in human readable csv files.
 
 Usage: 
