@@ -6,6 +6,7 @@ Release/Version: 15 August 2016
 
 Application: Google Duo
 
+<br><br>
 
 Python file to extract information from Google Duo databases and print the data in human readable csv files.
 
@@ -21,6 +22,7 @@ Then enter where you want the reports to be saved, the same folder works fine fo
 
 Two converted CSV files will now have been created.
 
+<br>
 
 Background:
 
@@ -29,5 +31,6 @@ Data in Google Duo is stored in 3 databases
 /data/data/com.google.android.apps.tachyon/databases/PhoneNumberInfo.db - contact list including hidden and blocked contacts (Format:SQLite)
 /data/data/com.google.android.apps.tachyon/shared_prefs/com.google.android.apps.tachyon_preferences.xml - the owners phone number (Format:XML)
 
+<br>
 
 Tested in Windows enviroments, requires all three files to work.
