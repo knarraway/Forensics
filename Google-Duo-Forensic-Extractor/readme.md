@@ -27,6 +27,7 @@ Two converted CSV files will now have been created.
 Background:
 
 Data in Google Duo is stored in 3 databases
+<br>
 /data/data/com.google.android.apps.tachyon/databases/CallHistory.db - list of all calls made by the user (Format:SQLite)
 /data/data/com.google.android.apps.tachyon/databases/PhoneNumberInfo.db - contact list including hidden and blocked contacts (Format:SQLite)
 /data/data/com.google.android.apps.tachyon/shared_prefs/com.google.android.apps.tachyon_preferences.xml - the owners phone number (Format:XML)
